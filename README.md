@@ -14,3 +14,17 @@
 </div>
 <p align="center"> Currently wondering how my code worked...</p>
 <img src="https://komarev.com/ghpvc/?username=muhammadamray&style=flat-square&color=blue" alt=""/>
+
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York 🗽.
+
+- :telescope: I’m currently working on My Not Yelp Clone
+
+- :books: Continuous learner, always exploring new trends in technology and staying updated with the latest industry developments.
+
+- 🍰 In my free time, you can catch me playing basketball or cooking.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammadamray-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amray-b94983207/)
+
