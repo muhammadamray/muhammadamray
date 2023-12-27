@@ -24,11 +24,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :books: Continuous learner, always exploring new trends in technology and staying updated with the latest industry developments.
 
-- 🖥️: Checkout my <a href="https://muhammadamray.netlify.app/" target="_blank">Portfolio site</a>
+- 🖥️: Checkout my Portfolio site https://muhammadamray.netlify.app/
 
 - 🍰 In my free time, you can catch me playing basketball or cooking.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammadamray-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amray-b94983207/){:target="_blank"}
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammadamray-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amray-b94983207/)
 
 ---
 
