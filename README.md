@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :books: Continuous learner, always exploring new trends in technology and staying updated with the latest industry developments.
 
-- 🖥️: Checkout my [Portfolio site](https://muhammadamray.netlify.app/){:target="_blank"}
+- 🖥️: Checkout my <a href="https://muhammadamray.netlify.app/" target="_blank">Portfolio site</a>
 
 - 🍰 In my free time, you can catch me playing basketball or cooking.
 
